@@ -1,5 +1,4 @@
 # Get Started
-----
 
 ### What’s Markdown?
 
@@ -20,7 +19,6 @@ There are a couple different reasons why people use Markdown instead of WYSIWYG 
 
   
 # How to learm
-----
 
 ### Time to get a hold of: 1 Sit
 
